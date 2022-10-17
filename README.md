@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ritammishra
+- 👋 Hi, I’m @Ritam mishra
 - 👀 I’m interested in Full stack javascript development
 - 🌱 I’m currently learning Full stack javascript development
 - 📫 How to reach me mishraritam935@gmail.com
